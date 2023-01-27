@@ -52,8 +52,23 @@ for i in range(50):
 print("Game Over")
 
 
-
 """
 Stretch goal 2 
 The program tells the user if the guess is cold or hot depending on how close they are, up to you how you implement this.
 """
+
+for i in range(50):
+    print("Add integer between these values (10, 40)")
+    min_no = int(input("Min from (10, 40): "))
+    max_no = int(input("Max from (10, 40): "))
+    if min_no == 12 and max_no == 34:
+        print('You won!')
+        break
+    if min_no <= 14 and max_no >= 32:
+        print('You are Hot')
+        continue
+    else:
+        print(f"Wrong guess. Try again!")
+        continue
+print("Game Over")
+
