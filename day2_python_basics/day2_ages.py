@@ -8,8 +8,8 @@ ages =[12,18,33,84,45,67,12,82,95,16,10,23,43,29,40,34,30,16,44,69,70,74,38,65,3
 
 # Record the length of the list of variables and save this as a variable
 
-# len_ages = (len(ages))
-print(len(ages))
+len_ages = len(ages)
+print(len_ages)
 
 # Display all of the numbers in the list line by line using some form of loop
 
