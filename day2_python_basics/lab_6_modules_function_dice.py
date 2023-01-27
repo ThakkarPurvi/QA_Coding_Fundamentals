@@ -31,14 +31,14 @@ import random
 six_side_dice = []
 roll = []
 def four_dices_of_six():
-    for i in range(6):
+    for i in range(4):
         roll = []
-        for j in range(4):
+        for j in range(6):
             num = random.randint(1, 6)
             roll.append(num)
         six_side_dice.append(roll)
-        return six_side_dice
-print(f"4 Dices of 6: ",four_dices_of_six)
+    return six_side_dice
+print(f"4 Dices of 6: ",four_dices_of_six())
 
 """
 Write a function which rolls 4 six sided dice, removes the smallest number from the pool 
@@ -47,10 +47,12 @@ Write a function which rolls 4 six sided dice, removes the smallest number from 
 
 
 
+
 """
 Stretch goal – Separate out the dice rolling function so that one function runs another so that each function 
 only does one thing and is simplified. 
 """
+
 
 
 """
