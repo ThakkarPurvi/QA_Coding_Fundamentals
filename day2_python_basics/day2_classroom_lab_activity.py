@@ -16,13 +16,6 @@ for number in range(31, 10, -3):
 print("This is less than 10")
 
 
-
-"""
-Part 3 – Factorials
-Add a file called Factorials.py that returns the factorial of an entered number. The factorial is the number gained when multiplying all integers between 1 and the chosen number. I.e Factorial of 4: 1 * 2 * 3 * 4  = 24
-Use a For loop or While loop to achieve this
-"""
-
 """
 Lab 4 – Lists
 Task 1 – Working with large List
