@@ -142,10 +142,10 @@ print("hello")
 print("hello")
 
 """ While Loops - Run until something is no longer true
- You're not sure how many times it should loop
-# For Loops   - Runs a set amount of times
-# Used when you are sure how many times 
-# Random is a python file that has functions we can use to make random numbers """
+    You're not sure how many times it should loop
+    For Loops   - Runs a set amount of times
+    Used when you are sure how many times 
+    Random is a python file that has functions we can use to make random numbers """
 
 import random
 

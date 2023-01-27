@@ -26,4 +26,15 @@ Stretch goal – The user can enter 3 additional letters into the program that i
 and return the total number of found letters. I.e the user enters B, P, T and also enters BURRITO, it should return 5 (B, U, I, T, O).
 """
 
+# Don't understand this question
 
+"""
+Task 2 – Counting Vowels with a list
+We will be developing our count vowels program created in the previous set of labs but using a list instead. 
+"""
+
+
+"""
+The user should be able to input a string and use this string (which is a list of chars) to count the number of vowels directly. 
+Stretch goal – The user can enter 3 extra letters and check if they are in the word. 
+"""
