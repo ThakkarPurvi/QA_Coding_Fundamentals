@@ -38,3 +38,5 @@ We will be developing our count vowels program created in the previous set of la
 The user should be able to input a string and use this string (which is a list of chars) to count the number of vowels directly. 
 Stretch goal – The user can enter 3 extra letters and check if they are in the word. 
 """
+
+for i in range()

@@ -1,0 +1,7 @@
+Tiger
+Dog
+Cat
+Rabbit
+Lion
+Giraffe
+Monkey

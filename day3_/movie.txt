@@ -1,0 +1,54 @@
+Booking No:None
+Name: July
+Movie Name: Harry Potter 2
+Seat No: 4
+VIP Seats: Yes
+=============
+Booking No:None
+Name: Jonny
+Movie Name: Harry Potter 1
+Seat No: 7
+VIP Seats: No
+=============
+Booking No:None
+Name: April
+Movie Name: Harry Potter 3
+Seat No: 2
+VIP Seats: No
+=============
+Booking No:None
+Name: APple
+Movie Name: Harry Potter 1
+Seat No: 2
+VIP Seats: No
+=============
+Booking No:100
+Name: Jo
+Movie Name: Harry Potter 3
+Seat No: 5
+VIP Seats: No
+=============
+Booking No:100
+Name: Holly
+Movie Name: Harry Potter 2
+Seat No: 1
+VIP Seats: No
+=============
+Booking No:<function count at 0x00000256BB8983A0>
+Name: K
+Movie Name: Harry Potter 1
+Seat No: 4
+VIP Seats: No
+=============
+Booking No:100
+Name: J
+Movie Name: Harry Potter 1
+Seat No: 4
+VIP Seats: No
+=============
+Booking No:None
+Name: June
+Movie Name: Harry Potter
+Seat No: 6
+VIP Seats: No
+=============
