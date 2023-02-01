@@ -54,17 +54,3 @@ only does one thing and is simplified.
 """
 
 
-
-"""
-Task – Create a custom function to work out tax
-Create a program called incomeTax.py, this file will contain custom functions to work out the tax on an annual salary. The user will be able to input in a salary and it would return the taxable amount of the salary. This will be done in two parts with the simple version of tax which is total tax (simplified) and complex which is bracketed tax. 
-
-Tax breakdowns are below:
-No tax paid on £12,570 personal allowance.
-£12,571 to £23,000 starter rate of 19%
-£23,000 to £40,000 intermediate rate of 30%
-£40,001 to £150,000 higher rate of 41%
-Above £150,000 top rate of 46%
-Simple version: Entire Salary will be taxed to the bracket it belongs in
-Complex version: With the salary it is taxed correctly with it being bracketed, 
-this should be done with a series of loops and conditional statements """

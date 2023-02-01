@@ -8,19 +8,21 @@
 
 
 CREATE TABLE enclosures (
-    enclosure_id INT AUTOINCREMENT PRIMARY KEY,
+    enclosure_id INTEGER PRIMARY KEY AUTOINCREMENT,
     enclosure_name VARCHAR(30),
-    enclosure_area INT(3),
-    no_of_animals INT(3),
+    enclosure_area INTEGER(3),
+    no_of_animals INTEGER(3),
     wild_type BOOLEAN
 );
 
 CREATE TABLE animals (
-    animal_id INT AUTOINCREMENT PRIMARY KEY,
-    enclosure_id INT,
+    animal_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    enclosure_id INTEGER,
     animal_name VARCHAR(40),
-    no_of_animal CHAR(3),
-    FOREIGN KEY(enclosure_id) REFERENCES enclosure(enclosure_id)
+    trophic_level VARCHAR(20),
+    life_span INTEGER,
+    FOREIGN KEY(enclosure_id) REFERENCES enclosures(enclosure_id)
+
 );
 
 
