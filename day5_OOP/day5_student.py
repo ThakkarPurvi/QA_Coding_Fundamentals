@@ -16,7 +16,6 @@ class student:
 
     def __str__(self):
         key, val = self.subject.items()[0]
-        # return f"----- Student Details------\nName: {self.name}, \nAge: {self.age}"
         return f"Subject Name: {self.subject.items(key)},  Score: {self.subject.items[value]}"
 
     def change_name(self, new_name):

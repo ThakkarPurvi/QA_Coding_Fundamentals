@@ -34,3 +34,4 @@ if operator in (1, 2, 3, 4, 5):
         print(number1, "**", number2, "=", (number1 ** number2))
 
 print(f"*"*34,"\nThank you for using the Calculator\n","*"*34)
+

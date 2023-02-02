@@ -105,7 +105,7 @@ class Penguin:
 
     def get_weight(self):
         return self._weight
-blah blah
+
     def set_weight(self, weight):
         if weight <= 10:
             return "Invalid Weight!"
